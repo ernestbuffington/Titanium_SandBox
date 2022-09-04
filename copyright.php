@@ -1,12 +1,8 @@
 <?php
 #########################################################################
-# Titanium Blogs Top 100 v1.0                                           #
-#########################################################################
 # PHP-Nuke Titanium : Enhanced PHP-Nuke Web Portal System               #
 #########################################################################
 # [CHANGES]                                                             #
-# Table Header Module Fix by TheGhost               v1.0.0   01/30/2012 #
-# Nuke Patched                                      v3.1.0   06/26/2005 #
 #########################################################################
 define('CP_INCLUDE_DIR', dirname(dirname(dirname(__FILE__))));
 require_once(CP_INCLUDE_DIR.'/includes/showcp.php');
